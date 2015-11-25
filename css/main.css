@@ -61,5 +61,23 @@ body {
 }
 
 * {
-  outline: white 1px solid;
+  outline: none;
+}
+
+.p {
+  text-align: center;
+  padding-right: 200px;
+  border: 1px green;
+  float: right;
+  padding-top: 200px;
+  padding-right: 200px;
+  font-size: 1.4em;
+  font-family: Impact;
+  color: red;
+
+}
+
+.p li {
+  text-decoration: none;
+  list-style-type: none;
 }
